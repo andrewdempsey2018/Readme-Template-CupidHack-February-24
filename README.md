@@ -4,7 +4,7 @@
 
 <h1 align="center"><strong>🥰 💓 💜 Cupid's Code Quest! 💌 💞 💗</strong></h1>
 
-<img src="https://res.cloudinary.com/djdefbnij/image/upload/c_crop,w_1920,x_213/v1706546206/Feb_hackathon_banner_yls0dc.png" alt="CupidsCodeQuestBanner" width="1200" style="height: 230px;object-fit: cover;"/>
+<img src="https://res.cloudinary.com/djdefbnij/image/upload/c_crop,w_1920,x_213/v1706546206/Feb_hackathon_banner_yls0dc.png" alt="CupidsCodeQuestBanner" width="1200"/>
 
 # SUBMISSION
 
